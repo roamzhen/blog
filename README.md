@@ -1,2 +1,2 @@
-# blog
-a collection 
+# Roamye's blog
+It's a blog of roamye.
